@@ -1,0 +1,6 @@
+INDEX VERSION 1.129+C:\Users\lucas\Desktop\HW6help123\.metadata\.plugins\org.eclipse.jdt.core
+635370390.index
+2544388521.index
+1917132016.index
+2115016936.index
+152545406.index
